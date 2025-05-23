@@ -38,3 +38,4 @@ public void testMinus() {
     assertEquals(-1.0f, calc.minus(2.0f, 3.0f));
     assertEquals(5.0f, calc.minus(-5.0f, -10.0f));
 }
+//Voir l'ajout de minus dans le fichier calculatrice.java
